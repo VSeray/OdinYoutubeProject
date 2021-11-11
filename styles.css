@@ -90,3 +90,7 @@ body {
         color: #555;
         cursor: pointer;
     }
+
+    .video {
+        width: 100%;
+    }
